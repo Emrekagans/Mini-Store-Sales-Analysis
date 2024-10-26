@@ -1,0 +1,45 @@
+1. General Sales Analysis
+Total Income 33,360 $
+Most Sold Product: Product_D (280 pieces)
+Most Sold Product Quantity: 280 units (Product_D)
+
+3. Revenue by Product
+Product Revenue:
+Product_A: 1,300 $
+
+Product_B: 731.25 $
+
+Product_C: 1,350 $
+
+Product_D: 1,400 $
+
+Product_E: 1,050 $
+
+Product_F: 1,166.67 $
+
+Product_G: 678.33 $
+
+Product_H: 1,066.67 $
+
+4. Sales Quantities
+Total Sales Amounts:
+Product_A: 260
+Product_B: 195
+Product_C: 120
+Product_D: 280
+Product_E: 140
+Product_F: 70
+Product_G: 37
+Product_H: 80
+
+6. Sales Amount per Revenue Analysis
+Sales Amount per Revenue:
+
+
+Product_G: 18.33 $ (highest)
+
+Product_B: 3.75 $ (lowest)
+
+7. Analyses Supported by Graphs
+Sales Amounts of Products: Shown with a bar graph. The most sold product was highlighted as Product_D.
+Relationship between Revenue and Sales Amount: Analysing the amount of sales per revenue helped to identify which products were more profitable.
